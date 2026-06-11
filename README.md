@@ -3,4 +3,4 @@
 This folder contains solutions to problems from the BitCode DSA Community Roadmap.
 
 
-[Roadmap Link](htps://github.com/Orniya/BitCode-DSA-Learning-Community/tree/main)
+[Roadmap Link](https://github.com/Orniya/BitCode-DSA-Learning-Community/tree/main)
