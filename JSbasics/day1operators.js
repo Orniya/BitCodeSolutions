@@ -6,9 +6,8 @@ function getPerimeter(length, width) {
     return 2 * (length + width);
 }
 
-// test in VS Code
-const length = 3;
-const width = 4.5;
 
-console.log(getArea(length, width));
-console.log(getPerimeter(length, width));
+
+
+console.log(getArea(3, 10));
+console.log(getPerimeter(4, 10));
