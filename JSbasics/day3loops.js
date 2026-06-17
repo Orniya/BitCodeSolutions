@@ -3,8 +3,9 @@ function vowelsAndConsonants(s) {
      
     
     const v = ["a","e", "i", "o", "u"]
+    
     for(let char of s){
-        if(v.includes(char)){
+        if(v.includes(char)){ // in 
             console.log(char)
         }
     }
