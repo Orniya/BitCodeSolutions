@@ -4,9 +4,11 @@
 //     return line.split(" ").join("-");
 // }
 
-// let line = "this is a string";
+// split(" ") splits at " " and returns an array
+//join("-"): glues array back together using "-" and returns a string 
+let line = "this is a string";
 
-// console.log(splitAndJoin(line));
+console.log(splitAndJoin(line));
 
 
 function splitAndJoin(line) {
@@ -22,3 +24,6 @@ function splitAndJoin(line) {
 
     return result;
 }
+
+// 1st method: 2 iterations
+// 2nd method: 1 i

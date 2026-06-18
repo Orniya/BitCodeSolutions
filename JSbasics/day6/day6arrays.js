@@ -8,6 +8,11 @@ let nums = [2, 6,6,5,3]
 
 // console.log(getSecondLargest(nums));
 
+// new set() removes duplicates and gives a set
+// ... takes everything inside and spreads it into an array, b/c set != array and can't be sorted directly
+// .sort() sorts array
+// (a,b) => b-a: in a descending order
+// [1] 2nd element
 
 function getSecondLargest(nums) {
     let max = null;
