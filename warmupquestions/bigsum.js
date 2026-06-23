@@ -13,3 +13,12 @@ function aVeryBigSum(ar) {
 
 
 console.log(aVeryBigSum(ar));
+
+
+
+
+
+
+// matters for languages that needs to be declared with a type, like c++ and java
+// int 32 bits: 2,147,483,647
+// long 64 bits
