@@ -1,0 +1,18 @@
+let x = 10
+let y = 6
+let z = 4
+
+function catAndMouse(x, y, z) {
+    let catA = Math.abs(x - z);
+    let catB = Math.abs(y - z);
+
+    if (catA < catB) {
+        return "Cat A";
+    } else if (catB < catA) {
+        return "Cat B";
+    } else {
+        return "Mouse C";
+    }
+}
+
+console.log(catAndMouse(x,y,z))
