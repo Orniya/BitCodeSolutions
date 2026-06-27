@@ -19,6 +19,7 @@ console.log(aVeryBigSum(ar));
 
 
 
-// matters for languages that needs to be declared with a type, like c++ and java
+// matters for languages that needs to be declared with a type, like c++ and java: specific
+// js or python: not specific, so it takes and it doesn't classify
 // int 32 bits: 2,147,483,647
 // long 64 bits
